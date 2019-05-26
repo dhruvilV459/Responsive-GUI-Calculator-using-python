@@ -1,1 +1,1 @@
-# GUI-Calculator-using-python
+# GUI-Responsive-Calculator-using-python
